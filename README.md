@@ -21,6 +21,8 @@ Desarrollo Web: Proyectos y formaciones
 
 #### [Some Angular Stuff](https://github.com/Maciker/Angular)
 
+#### [Advent Calendar 2022](https://github.com/Maciker/adventJS/tree/main/2022)
+
 ## Python
 
 #### [Python Fundamentals](https://github.com/Maciker/Python_Fundamentals)
