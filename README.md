@@ -1,7 +1,7 @@
 # Desarrollo-Web
 Desarrollo Web: Proyectos y formaciones
 
-## [NetNInja Courses](https://github.com/Maciker/NetNinjaCourses)
+## [NetNinja Courses](https://github.com/Maciker/NetNinjaCourses)
 
 #### [Modern React Tutorial](https://github.com/Maciker/NetNinjaCourses/tree/main/dojo-club)
 
