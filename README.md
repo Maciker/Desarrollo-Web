@@ -4,6 +4,8 @@ Desarrollo Web: Proyectos y formaciones
 ## [NetNinja Courses](https://github.com/Maciker/NetNinjaCourses)
 
 #### [Modern React Tutorial](https://github.com/Maciker/NetNinjaCourses/tree/main/dojo-club)
+#### [Learn TypeScript]()
+#### [Getting Started with Next.js]()
 
 ## [FreeCodeCamp Courses](https://github.com/Maciker/FreeCodeCampCourses)
 
