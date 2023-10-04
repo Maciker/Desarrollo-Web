@@ -6,6 +6,8 @@ Desarrollo Web: Proyectos y formaciones
 #### [Visual Quotes API](https://github.com/Maciker/VisualQuotesAPI)
 #### [Visual Quotes Front-end](https://www.visualquotes.net/)
 
+## Formaciones
+
 #### [Full Stack Open - In Progress](https://github.com/Maciker/FullStackOpen)
 
 ## [NetNinja Courses](https://github.com/Maciker/NetNinjaCourses)
