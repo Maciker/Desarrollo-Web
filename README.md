@@ -8,7 +8,9 @@ Desarrollo Web: Proyectos y formaciones
 
 ## Formaciones
 
-#### [Full Stack Open - In Progress](https://github.com/Maciker/FullStackOpen)
+#### [Vue ZTM Course](https://github.com/Maciker/vue-ztm-course)
+
+#### [Full Stack Open](https://github.com/Maciker/FullStackOpen)
 
 ## [NetNinja Courses](https://github.com/Maciker/NetNinjaCourses)
 
