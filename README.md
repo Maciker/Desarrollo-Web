@@ -14,6 +14,10 @@ Desarrollo Web: Proyectos y formaciones
 
 #### [Full Stack Open](https://github.com/Maciker/FullStackOpen)
 
+## Katas
+
+#### [Katas](https://github.com/Maciker/katas)
+
 ## [NetNinja Courses](https://github.com/Maciker/NetNinjaCourses)
 
 #### [Modern React Tutorial](https://github.com/Maciker/NetNinjaCourses/tree/main/dojo-club)
