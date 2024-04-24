@@ -46,6 +46,8 @@ Desarrollo Web: Proyectos y formaciones
 
 ## Python
 
+#### [Python PlayRoom](https://github.com/Maciker/python_playroom)
+
 #### [Python Fundamentals](https://github.com/Maciker/Python_Fundamentals)
 
 #### [Udemy Course: Python and PostgreSQL Developer Complete Course](https://github.com/Maciker/Python_PostgreSQL_Developer_Course)
