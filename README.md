@@ -8,6 +8,8 @@ Desarrollo Web: Proyectos y formaciones
 
 ## Formaciones
 
+#### [Full Stack AI Marketing Platform](https://github.com/Maciker/FullStack-AI-Marketing-Platform)
+
 #### [Testing Sostenible](https://github.com/Maciker/testing-sostenible)
 
 #### [Vue ZTM Course](https://github.com/Maciker/vue-ztm-course)
