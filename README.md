@@ -1,10 +1,5 @@
 # Desarrollo-Web
-Desarrollo Web: Proyectos y formaciones
-
-## Proyectos
-
-#### [Visual Quotes API](https://github.com/Maciker/VisualQuotesAPI)
-#### [Visual Quotes Front-end](https://github.com/Maciker/VisualQuotes)
+Desarrollo Web: formaciones
 
 ## Formaciones
 
